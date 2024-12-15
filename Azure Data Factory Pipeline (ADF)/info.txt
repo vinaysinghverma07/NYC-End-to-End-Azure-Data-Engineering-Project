@@ -1,0 +1,6 @@
+selected resource name:		resource name
+selected resource type:		pipeline
+factory name:			adf-nyc-factory-name
+factory location:		eastus
+subscription id:		subscription id
+time of download (UTC):		Sun, 15 Dec 2024 06:56:28 GMT

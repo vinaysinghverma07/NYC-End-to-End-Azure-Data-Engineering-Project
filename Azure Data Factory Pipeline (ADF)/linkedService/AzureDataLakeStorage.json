@@ -1,0 +1,12 @@
+{
+    "name": "AzureDataLakeStorage",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureBlobFS",
+        "typeProperties": {
+            "url": "https://nyctaxistorageyourstorageaccountname.dfs.core.windows.net/",
+            "encryptedCredential": "yourencryptedcredentialscreatedusingMicrosoftEntraID"
+        }
+    }
+}

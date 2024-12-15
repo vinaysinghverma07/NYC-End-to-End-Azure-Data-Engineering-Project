@@ -1,0 +1,23 @@
+{
+    "now": "2024-12-15T06:56:28.604Z",
+    "perfNow": 7009651.600000143,
+    "diagnosticCorrelation": "",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "",
+        "environmentType": 3,
+        "resourceName": "adf-your-resource-name",
+        "resourceRegion": "eastus",
+        "resourceGroup": "your-resouce-group-name",
+        "subscriptionId": "your-subscriptionId",
+        "sessionId": "",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "loggingKey"
+    },
+    "additionalInfo": {
+        "selectedResource": "nycWebToDL",
+        "selectedResourceType": "pipeline"
+    }
+}
