@@ -1,4 +1,4 @@
-# -NYC-End-to-End-Azure-Data-Engineering-Project
+# NYC-End-to-End-Azure-Data-Engineering-Project
 
 ## Description
 Hey, This project demonstrates a data engineering pipeline for handling NYC datasets. The pipeline leverages Azure services like Azure Data Factory (ADF), Azure Data Lake Storage Gen2 (ADLS Gen2), and Databricks for seamless ingestion, transformation, and storage of data in bronze, silver, and Gold layers (Using Medallion architecture) and creating delta tables on top of gold layer using parquet file format. The processed data can then be used for advanced analytics and reporting.
